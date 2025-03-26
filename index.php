@@ -1,2 +1,2 @@
 <?php 
-phpinfo();
+echo 'sabe de nada';
